@@ -22,11 +22,9 @@ end
 
 #Exercise 3
 
-# def multiply(n1, n2)
-#   return n3 
-#   #write a block of code to return the product 
-#   #of 2 numbers then delete these comments
-# end
+def multiply(n1, n2)
+   return n3 = n1 * n2
+end
 
 #Exercise 4
 
