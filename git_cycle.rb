@@ -23,15 +23,14 @@ end
 #Exercise 3
 
 def multiply(n1, n2)
-   return n3 = n1 * n2
+  n3 = n1 * n2
 end
 
 #Exercise 4
 
-# def divide(n1, n2)
-#   return n1/n2
-#   #make necessary corrections then delete these comments
-# end
+def divide(n1, n2)
+  n1/n2
+end
 
 
 
