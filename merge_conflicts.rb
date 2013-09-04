@@ -32,7 +32,9 @@ class MergeConflicts
   end
 
   def divide
-    
+    TESTING
+    TESTING
+    TESTING
   end
 
 end
