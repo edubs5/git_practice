@@ -35,6 +35,12 @@ class MergeConflicts
     TESTING
     TESTING
     TESTING
+     TESTING
+    TESTING
+    TESTING
+     TESTING
+    TESTING
+    TESTING
   end
 
 end
