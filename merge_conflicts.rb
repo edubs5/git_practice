@@ -17,11 +17,18 @@ class MergeConflicts
   end
 
   def subtract
-    
+    testing
+    testing
+    testing
   end
 
   def multiply
-    
+    testing
+    testing
+    testing
+    testing
+    testing
+    testing
   end
 
   def divide
