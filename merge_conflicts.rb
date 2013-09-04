@@ -12,8 +12,13 @@ class MergeConflicts
     p "When working on a team, communiction is key"
   end
 
+<<<<<<< HEAD
   def add(n3,n4)
     n3 - n4
+=======
+  def add (n1, n2)
+    n1 + n2
+>>>>>>> 9130d43ded1b08845ce6d8c25f062eca1f0d6110
   end
 
   def subtract
