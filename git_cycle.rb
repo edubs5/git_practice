@@ -16,11 +16,9 @@ end
 
 #Exercise 2
 
-# def subtract(n1, n2)
-#     n1  n2 #fix me!!
-#   #fix the block of code to return the difference 
-#   #of 2 numbers then delete these comments
-# end
+def subtract(n1, n2)
+    n1 - n2
+end
 
 #Exercise 3
 
